@@ -1,1 +1,2 @@
 "priemria linha do ficheiro" 
+"outra linha linha do ficheiro" 
